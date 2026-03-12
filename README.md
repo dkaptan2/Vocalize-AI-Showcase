@@ -1,4 +1,4 @@
-# Vocalize AI
+# Vocalize AI (MVP)
 
 Vocalize AI is an AI-assisted audio plugin concept designed to help artists and producers make smarter mixing decisions through a conversational interface. The goal is to bridge professional audio engineering workflows with intuitive natural-language control, making high-quality mixing guidance more accessible, faster, and more creative.
 
