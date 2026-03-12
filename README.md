@@ -1,5 +1,7 @@
 # Vocalize AI
 
+<img width="2442" height="1153" alt="image" src="https://github.com/user-attachments/assets/0ef64f5e-f8cd-466b-9811-703168865684" />
+
 Vocalize AI is an AI-assisted audio plugin concept designed to help artists and producers make smarter mixing decisions through a conversational interface. The goal is to bridge professional audio engineering workflows with intuitive natural-language control, making high-quality mixing guidance more accessible, faster, and more creative.
 
 ## Overview
@@ -69,15 +71,6 @@ Planned and in-progress directions include:
 - educational guidance modes
 - stronger real-time analysis features
 - more polished professional UI/UX
-
-## Visuals
-
-### Main Interface
-<img width="2442" height="1153" alt="image" src="https://github.com/user-attachments/assets/0ef64f5e-f8cd-466b-9811-703168865684" />
-
-## Demo
-
-A short product demonstration can be added here once available.
 
 ## Status
 
